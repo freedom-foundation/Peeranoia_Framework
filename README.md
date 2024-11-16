@@ -13,9 +13,9 @@ First read Zangler. To get started click join discussion. You need to be able to
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 <h4>Where users can get help with your project</h4>
-To learn more read Zangler.
+To learn more read [Zangler](https://github.com/freedom-foundation/Peeranoia_Framework/blob/main/Zangerl_Thesis.4c326f00aa69c19d47b794ba3e521b09.pdf).
 
 <h5>Who maintains and contributes to the project</h5>
 I, Sovereign Jason M. Christos in my capacity of freedom-foundation maintain's the PEERANOIA framework project.
 
-[Secutity guidelines for this project](docs/SECURITY.md) 
+[Security guidelines for this project](docs/SECURITY.md) 
