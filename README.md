@@ -8,7 +8,7 @@ Peeranoia_Framework is the peers, code and software of a network used to exchang
 Checksums are useful for obvious reasons vandalism, forgery, and so forth. This project brings together competent peers so that PEERANOIA can be enacted.
 
 <h3>How users can get started with the project</h3>
-First read Zangler. To get started click join discussion. You need to be able to show competency and knowledge. Introduce yourself and contribute a relevent question or comment. 
+First read Zangler. If you can do a checksum then you qualify to join. To get started click join discussion. You need to be able to show competency and knowledge. Introduce yourself and contribute a relevent question or comment. To show that you have read Zangler. Then to show that uou are competent share any checksum.
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
@@ -16,6 +16,6 @@ First read Zangler. To get started click join discussion. You need to be able to
 To learn more read [Zangler](https://github.com/freedom-foundation/Peeranoia_Framework/blob/main/Zangerl_Thesis.4c326f00aa69c19d47b794ba3e521b09.pdf).
 
 <h5>Who maintains and contributes to the project</h5>
-I, Sovereign Jason M. Christos in my capacity of freedom-foundation maintain's the PEERANOIA framework project.
+I, Sovereign Jason M. Christos the First in my capacity of freedom-foundation maintain's administrator and overseer of the PEERANOIA framework project.
 
 [Security guidelines for this project](docs/SECURITY.md) 
