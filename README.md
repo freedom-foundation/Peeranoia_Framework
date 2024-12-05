@@ -8,7 +8,7 @@ Peeranoia_Framework is the peers, code and software of a network used to exchang
 Checksums are useful for obvious reasons vandalism, forgery, and so forth. This project brings together competent peers so that PEERANOIA can be enacted. "As you’ve been bitten once already, you have a reason for paranoia." (Motivation 1.1, p.8, Zangler)
 
 ### How users can get started with the project
-First read Zangler. If you can do a checksum then you qualify to join. To get started click join [Discussion](https://github.com/freedom-foundation/Peeranoia_Framework/discussions/1). You need to be able to show competency and knowledge. Introduce yourself and contribute a relevent question or comment. To show that you have read Zangler. Then to show that you are competent share any checksum.
+First read Zangler. If you can do a checksum then you qualify to join. You need to be able to show competency and knowledge. Introduce yourself and contribute a relevent question or comment. To show that you have read Zangler. Then to show that you are competent share any checksum. To get started click to join Pure Talk Live PEERANOIA [Discussions!](https://github.com/freedom-foundation/Peeranoia_Framework/discussions/1). 
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
