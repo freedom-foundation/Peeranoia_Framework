@@ -1,0 +1,8 @@
+about_peerlist
+
+The peerlist consists of the cryptographic public keys of all peers and serves three purposes:
+1. it strictly describes the group membership: only parties whose keys are present in the peerlist can partake.
+2. it provides a rudimentary PKI in form of the list of keys themselves. 
+3. it binds network identities to keys so that peers can authenticate each other and communicate securely.
+
+The peerlist document consists of the list of keys, with each key identifying the respective owner via an attached comment text: a permanent peer is listed by its network identity, while administrators are listed with their email addresses. The reason for this distinction is that administrators should not be doing their work from permanently involved peer machines because of their higher privileges; they are therefore treated as temporary peers who can initiate communications with other peers but are not partaking actively in the document replication procedures (see Zangler section 4.7).
